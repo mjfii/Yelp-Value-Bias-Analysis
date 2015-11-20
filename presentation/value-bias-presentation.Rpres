@@ -1,0 +1,30 @@
+Value Bias in Yelp Restaurant Review Ratings
+========================================================
+author: mjfii
+date: November 22, 2015
+
+The Landscape
+========================================================
+some landscape text
+***
+![alt text](C:/Users/mickf/OneDrive/Source Code/GitHub/Yelp-Dataset-Challenge/images/word-cloud.png)
+
+The Problem
+========================================================
+
+```{r}
+summary(cars)
+```
+
+The Methodology
+========================================================
+
+some text
+
+The Answer
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+

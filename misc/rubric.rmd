@@ -1,0 +1,101 @@
+---
+title: "Project Deliverable Rubric"
+date: "November 22, 2015"
+output: html_document
+---
+
+The final project will consist of 5 page report plus a 5 page slide deck. We give the grading rubric for each below to help you in preparing your submission.
+
+###Report rubric:
+
+####Is the final report at most 5 pages with a readable font size and a standard (A4, 8.5x11) page size?
+
+0 points: No, the final report did not satisfy those requirements  
+1 point: Yes, the final report did satisfy those requirements
+
+####Was the manuscript organized as: title, intro, methods, results, discussion?
+
+0 points: No, the final report did not satisfy that requirement  
+1 point: Yes, the final report did satisfy that requirement
+
+####Was a primary question, hypothesis or prediction task of interest clearly stated in the introduction?
+
+0 points: No, the introduction did not state the primary question  
+1 point: Yes, the introduction did state the primary question
+
+####Was there at least one plot or table in the manuscript?
+
+0: No, there were not plots or tables in the manuscript.  
+1 point: Yes, there was at least one plot or table in the manuscript.  
+
+####Was there exploratory data analysis (plots, summary tables) presented that interrogates the question of interest?
+
+0 points: No, there was no exploratory data analysis presented  
+1 point: Yes, exploratory data analysis was presented but it was not directly relevant to the question being asked  
+2 points: Yes, exploratory data analysis was presented that was relevant to the question  
+
+####Was the (or multiple) statistical model, prediction algorithm or statistical inference described in the methods section?
+
+0 points: No, there was no description of the model(s) used  
+1 point: Yes, there was a description of the model(s) used in the methods section   
+ 
+####Are all of the methods presented in the results section introduced in the methods section?
+
+0 points: No, some of the methods presented are not described in the methods section  
+1 point: Yes, all of the methods presented are described in the methods section
+
+####Is the primary statistical model, statistical inference or prediction output in the results summarized and interpreted or is raw output given without description or interpretation?
+
+0 points: There is no useful summary or interpretation of the results  
+1 point: The results are summarized and interpreted in a useful way  
+
+####Is there a description of how the results relate to the primary questions of interest, or is it otherwise clear? In other words, do not give a point if the results seem unrelated to the question of interest and there is no apparent relationship.
+
+0 points: No, there is no description of how the results relate to the primary question of interest (and it's not otherwise clear)  
+1 point: Yes, there is a description of how the results relate to the primary question of interest (or it's otherwise clear)  
+
+####Was the primary question of interest answered / refuted or was there a description of why no clear answer could be obtained?  
+
+0 points: The primary question was not answered / refuted AND there was no description of why no clear answer could be obtained  
+1 point: Yes, the primary question was answered / refuted or there was a description of why no clear answer could be obtained  
+
+###Slide deck rubric
+####Does the link lead to a viewable 5 slide deck?
+
+0 points: No, the link does not lead to a viewable deck  
+1 point: Yes, the link does lead to a viewable deck  
+
+####Was the presentation 5 slides?
+
+0 points: No the presentation was not 5 slides  
+1 point: Yes the presentation was 5 slides  
+
+####Was the presentation done in Rstudio presenter and is an html presentation?
+
+0 Points: No, the presentation was not done in Rstudio presenter as an html presentation   
+1 Points, Yes, the presentation was done in Rstudio presenter as an html presentation
+
+####Does the presentation correspond to the manuscript?
+
+0 points: No, it is not clear how the presentation relates to the manuscript  
+1 point: Yes, the presentation content matches the manuscript content  
+
+####Does the presentation present a primary question of interest?
+
+0 points: No question of interest was given  
+1 point: Yes, a question of interest, such as a hypothesis or prediction task, was presented  
+
+####Does the presentation present the methodology used?
+
+0 points: No, the methodology (models, prediction algorithms, statistic methods or tests) was not given  
+1 point: Yes the methodology used was given  
+
+####Was there some data in the form of a plot, table or other output shown?
+
+0 points: No, there was no plot, table or other form of data output shown  
+1 point: Yes there was a plot, table or other form of data output shown  
+
+####Does the presentation present an answer to the primary question, a refutation or a description of why no clear answer could be obtained?
+
+0 points: No, there was either no primary question given or no discussion of the one(s) given  
+1 point: An answer to primary question of interest was given, such as: how it was supported by the data, how it was refutated by the data or a discussion of why no clear answer could be obtained  
